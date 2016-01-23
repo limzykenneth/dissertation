@@ -1,6 +1,6 @@
 # Technology: Your ______ may be disrupted
 
-The open-sourced version of my dissertation.
+### The open-sourced version of my dissertation.
 
 ---
 
@@ -13,3 +13,5 @@ Feel free to fork this repo and submit PRs if you want. Alternatively if you don
 ## About
 
 With technology being more disruptive than ever before, what can we do about the probable crisis or opportunities that lies ahead? Is this really an unprecedented event or is history repeating itself? What will happen to communications, jobs and the world order?
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
